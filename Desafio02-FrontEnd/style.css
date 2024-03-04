@@ -1,0 +1,19 @@
+.card-box{
+    width: 45rem;
+    height: 7rem;
+    border: 4px solid blueviolet;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
